@@ -1,3 +1,3 @@
 # External Property Search Box
 
-PING :: <a href="https://www.propertypost.lk/">PropertyPost.lk API</a>
+PING :: <a href="https://www.propertypost.lk/" rel="dofollow">PropertyPost.lk API</a>
